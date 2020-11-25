@@ -1,9 +1,6 @@
 # RShiny
 
-The project Economic analysis with respect to GDP creates an interactive dashboard that displays the GDP of about 164 countries ranging from 1994 to 2017. And this project also focuses on predicting the GDP of countries for future years so that one can get a good understanding about where the economy of a particular country is headed. Mainly it will be useful for investors and economists to understand about the economic situation of a country and invest or make decisions accordingly.
-
-
-The objective is to prepare an interactive dashboard that depicts the Economic Stability of a country considering its GDP and also to predict the GDP of the countries by using statistical methods. In the dashboard that is created, we are implementing a Prediction system that takes the previous data into the account and predicts the value of the desired output. As the data that we are dealing is a Time Series Data of Various Countries, our project is to focus on predicting the GDPs of those countries in a more convenient and graphical model such that it would be easy to understand by any common person. We are following a Time Series Approach to predict the values.
+The Project is about an interactive dashboard that depicts the Economic Stability of a country considering its GDP and also to predict the GDP of these countries by using statistical methods. This dashboard emphasis on implementing a Prediction system that takes the previous data into consideration and predicts the value of the given input. The data that is dealt here is a Time Series Data of Various Countries. The project focuses on predicting the GDPs of those countries in a more convenient and graphical model such that it would be easy to understand by any common person. We are following a Time Series Approach to predict the values by using ARIMA model as the Dataset is considerably small. It consists data of GDP values of 164 countries ranging from 1994 to 2017.
 
 
 The main focus is on representing the country and it’s GDP. Also there is prediction of GDP of those respective countries. The functions that are used are:
