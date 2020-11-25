@@ -12,8 +12,8 @@ library(dplyr)
 library(ggplot2)
 
 
-data=read.csv(file.choose())
-example=read.csv(file.choose())
+data=read.csv(file.choose()) #Finaldataset
+example=read.csv(file.choose()) #GDP
 ui <- dashboardPage( skin = "red",
                      dashboardHeader(title = "GDP Dashboard"),
                      dashboardSidebar(sidebarMenu(
